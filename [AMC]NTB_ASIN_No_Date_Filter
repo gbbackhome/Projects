@@ -1,3 +1,5 @@
+
+
 -- New-To-Brand (NTB) Performance Analysis by ASIN with Monthly Tracking
 -- Added 'product_sales' and 'purchases' for Direct vs Halo analysis
 WITH
