@@ -1,4 +1,4 @@
-[KICKOFF] project_id=orion-ntb-test · exported=2026-09-13 · 구성: 워크플로우 프롬프트 1개 + 03A + MEMORY 팩
+[KICKOFF] project_id=orion-ntb-test · exported=2026-09-13 · 구성: 워크플로우 프롬프트 1개 + 03A + MEMORY 팩 (단일 파일)
 아래 순서대로 읽고 마지막 [MEMORY SOURCE] 팩으로 A. 업무 시작 절차를 수행한다.
 
 
